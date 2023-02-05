@@ -1,1 +1,1 @@
-My first readme "I love programming"
+I love programming and i want to be a software engineer
